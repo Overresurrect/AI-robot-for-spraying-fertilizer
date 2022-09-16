@@ -1,9 +1,5 @@
 """
 This file has utility functions which are used in 'object_tracking.py' file
-
-This code is based on Google-Coral Object Detection example code available at:
-https://github.com/google-coral/examples-camera/tree/master/opencv
-
 """
 import numpy as np
 from PIL import Image
